@@ -26,9 +26,10 @@ This is a Python-based GUI application that stabilizes shaky drone footage using
 
 ## ▶️ How to Run
 
+```bash
+
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/drone-footage-stabilization.git
 cd drone-footage-stabilization
 
