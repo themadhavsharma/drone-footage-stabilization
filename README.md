@@ -41,21 +41,33 @@ pip install -r requirements.txt
 ```bash
 python Code.py
 
-## Future Ideas
+```
+
+## 📽️Future Ideas
 
 - Most Importantly improve the quality of the output video
 - Add rotation and zoom correction
 - Add batch video processing
 - Export frame-by-frame motion graphs
 
-## Contributing
+---
+
+## 📽️Contributing
 
 MADHAV SHARMA (@themadhavsharma)
 
-## License
+---
+
+## 📽️License
 
 (We will add information about the project's license if when we have one.)
 
-## Contact
+---
+
+## 📽️Contact
 
 EMAIL: madhavsharma.work@gmail.com
+
+---
+
+
