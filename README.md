@@ -4,7 +4,7 @@ This is a Python-based GUI application that stabilizes shaky drone footage using
 
 ---
 
-## 📽️ Features
+##  Features
 
 - 🎞️ Stabilizes drone or handheld video footage
 - 🖱️ Easy-to-use GUI built with **Tkinter**
@@ -15,7 +15,7 @@ This is a Python-based GUI application that stabilizes shaky drone footage using
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - Python 3
 - OpenCV
@@ -38,12 +38,11 @@ pip install -r requirements.txt
 
 ### 3. Run the App
 
-```bash
 python Code.py
 
 ```
 
-## 📽️Future Ideas
+## Future Ideas
 
 - Most Importantly improve the quality of the output video
 - Add rotation and zoom correction
@@ -52,13 +51,13 @@ python Code.py
 
 ---
 
-## 📽️Contributing
+## Contributing
 
 MADHAV SHARMA (@themadhavsharma)
 
 ---
 
-## 📽️License
+## License
 
 (We will add information about the project's license if when we have one.)
 
