@@ -58,12 +58,6 @@ MADHAV SHARMA (@themadhavsharma)
 
 ---
 
-## License
-
-(We will add information about the project's license if when we have one.)
-
----
-
 ## 📽️Contact
 
 EMAIL: madhavsharma.work@gmail.com
